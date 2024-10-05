@@ -1,0 +1,2 @@
+cors error means communication between two ports is not possible
+vite is faster tool to use than a standard webpack
